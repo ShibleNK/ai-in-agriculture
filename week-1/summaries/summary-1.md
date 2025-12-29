@@ -1,6 +1,6 @@
 # Summary: Deep Learning in Agriculture — A Survey
 
-This document summarizes the paper *Deep Learning in Agriculture: A Survey* by **Andreas Kamilaris** and **Francesc X. Prenafeta‑Boldú** (published in *Computers and Electronics in Agriculture*, 2018).0
+This document summarizes the paper *Deep Learning in Agriculture: A Survey* by **Andreas Kamilaris** and **Francesc X. Prenafeta‑Boldú** (published in *Computers and Electronics in Agriculture*, 2018).
 
 ## 1. Motivation
 
@@ -72,8 +72,8 @@ Common training strategies reported include:
 ## 10. Classification Results
 
 - **31 out of 40 papers** involved classification tasks with **2–1000 classes**.
-- Outputs represented class probabilities, with the highest probability chosen as the prediction.  
-- **28 out of 40 papers** reported valid and correct results, comparing DL models favorably against other techniques.
+- Outputs represented class probabilities, with the highest probability chosen as the prediction.
+- **28 out of 40 papers** reported valid and correct results, comparing DL models favorably against other techniques.
 
 ## 11. Conclusions
 
