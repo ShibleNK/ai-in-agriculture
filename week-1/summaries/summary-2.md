@@ -1,4 +1,6 @@
-# Summary - AI in Agriculture: A Review
+# Summary: AI in Agriculture - A Review
+---
+This document summarizes the paper AI in Agriculture: A Review by NC Eli-Chukwu (published in Engineering, Technology & Applied Science, researchgate, 2019.
 
 ## Introduction
 
