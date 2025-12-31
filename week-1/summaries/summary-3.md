@@ -1,4 +1,8 @@
-# Big Data in Smart Farming – A Review
+# Summary: Big Data in Smart Farming – A Review
+This document summarizes the paper Big Data in Smart Farming: A Review by Sjaak Wolfert,Lan Ge,Cor Verdouw, 
+Marc-Jeroen Bogaardt (published in ScienceDirect, 2017)
+
+
 
 ## Introduction
 As smart machines and sensors become common on farms, agriculture is becoming increasingly **data-driven**. Rapid progress in the **Internet of Things (IoT)** and **Cloud Computing** is pushing the move toward **Smart Farming**, where systems can monitor conditions in real time and support (or automate) farm decisions. Big Data technologies are central to this shift because they enable the collection, storage, processing, and analysis of large, fast, and diverse agricultural data.
