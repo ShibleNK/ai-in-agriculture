@@ -17,5 +17,5 @@ Short description: a weekly log of research summaries, mathematical foundations,
 ## Implementations
 ### Week 1:
 1. [PlantVillage image visualization](https://github.com/ShibleNK/ai-in-agriculture/blob/main/plantvillage-visualization.ipynb)
-2. [PlantVillage statistics] (https://github.com/ShibleNK/ai-in-agriculture/blob/main/plantvillage-statistics.ipynb)
+2. [PlantVillage statistics](https://github.com/ShibleNK/ai-in-agriculture/blob/main/plantvillage-statistics.ipynb)
 3. [PlantVillage data counting](https://github.com/ShibleNK/ai-in-agriculture/blob/main/plantvillage-count.ipynb)
